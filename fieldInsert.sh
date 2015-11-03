@@ -13,4 +13,6 @@ for i in `cat $FILE1|awk '{print $1}' `;do
               fi
          done
 done
+
+#Remove file duplicates
 sort -u $FILE2 > hosts.iad.sorted 
