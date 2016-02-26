@@ -1,5 +1,5 @@
 #!/bin/bash -x
-
+#adding a test comment
 FILE1="/Users/bgorla/Downloads/graylog/hosts.iad"
 FILE2="/Users/bgorla/Downloads/graylog/hosts.iad_new"
 
