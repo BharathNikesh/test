@@ -1,5 +1,5 @@
 #!/bin/bash -x
-
+#test
 LOG_DIR="/root/PBSpectrum/server/app/repository/logs"
 cd $LOG_DIR
 
